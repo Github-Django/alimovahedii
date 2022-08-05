@@ -8,14 +8,20 @@
 
 
 
-### Glad to see you here!  
-I'm a Mid Level Back End Developer with 3 year of experience in Python, Django and DRF
-I have also created some projects in this field.
-I plan to join a tech team to and gain more experiences and challenging myself
+
+- 🔭 I’m currently working on Django  
+  
+
+- 🌱 I’m currently learning Celery and Docker  
+  
+
+- ❓ Ask me about anything related to technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
