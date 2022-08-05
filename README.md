@@ -6,8 +6,14 @@
 </a>  
   
 
+### <div align="center">I'm I am a Mid Level Back End Developer with 3 year of experience in Python, Django and DRF
+I have also created some projects in this field.
+I plan to join a tech team to and gain more experiences and challenging myself 👨‍💻 🚀</div>  
 
 
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Django  
   
@@ -22,17 +28,6 @@
   
 
 <br/>  
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Dialog system  
-  
-
-- 🌱 I’m currently learning NLP  
-  
-
-- ⚡ Fun fact: Pollen land  
 
 
 </td><td valign="top" width="50%">
