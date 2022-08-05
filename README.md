@@ -1,10 +1,72 @@
-### Hi there 👋
-![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/93652376/183068022-97eeded1-98e3-40a6-844b-8f586885e3e0.gif)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://github.com/alimovahedii" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ali-movhedi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+### Glad to see you here!  
+I'm a Mid Level Back End Developer with 3 year of experience in Python, Django and DRF
+I have also created some projects in this field.
+I plan to join a tech team to and gain more experiences and challenging myself
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on Dialog system  
+  
+
+- 🌱 I’m currently learning NLP  
+  
+
+- ⚡ Fun fact: Pollen land  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /> 
+</div>  
+
+<br/>  
+
+
+
+
+  
+
+<br/>   
+
+<br/>  
+
+
+<br />
+
+----
