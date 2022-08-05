@@ -3,7 +3,7 @@
 <!--
 **alimovahedii/alimovahedii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/93652376/183068022-97eeded1-98e3-40a6-844b-8f586885e3e0.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
